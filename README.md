@@ -37,3 +37,7 @@ const USER = 'YOUR_USER'; // Set your username here
 
 The rest is optional if you want
 
+### 4️⃣ Usage:
+do ?raid in a discord server (IMPORTANT: BOT MUST HAVE ADMINISTRATOR PERMS)
+
+
