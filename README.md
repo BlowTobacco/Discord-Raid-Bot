@@ -37,7 +37,14 @@ const USER = 'YOUR_USER'; // Set your username here
 
 The rest is optional if you want
 
-### 4️⃣ Usage:
+### 4️⃣ After configuring:
+1. Open the terminal
+2. type node raid.js
+
+### 5️⃣ Usage:
 do ?raid in a discord server (IMPORTANT: BOT MUST HAVE ADMINISTRATOR PERMS)
+
+# If you don't understand anything ask chatgpt i guess
+(im new to github no hate)
 
 
